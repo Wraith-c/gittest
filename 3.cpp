@@ -13,5 +13,7 @@ int main() {
     string s;
     s = "Na-Na-NothingToSay";
     cout << s << endl;
+    string news = "You know what I look like. Come find me.";
+    cout << news << endl;
     return 0;
 }
